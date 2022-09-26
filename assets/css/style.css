@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    overflow-x: hidden;
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px;
+    align-items: center;
+}
+#code-academy{
+    border-bottom: 1px solid;
+}
+.education{
+    display: flex;
+}
+#Education{
+    margin-top:100px;
+
+}
+/* .col-lg-6{
+    border: 1px solid gray;
+   
+} */
+.icon{
+    align-items: center;
+}
+.fa-magnifying-glass{
+    display: flex;
+    align-items: center;
+}
+
+.card-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#Marketing:hover{
+    background-color:  purple;
+    transform: scale(1,2);
+    
+  }
+  #Dizayn:hover{
+      background-color: yellow;
+      transform: scale(1.2);
+  }
+  #Programing:hover{
+      background-color:blue;
+      transform: scale(1,2);
+  }
+  #system-network:hover{
+  background-color: blueviolet;
+  transform: scale(1,2);
+  }
+
+  
+#Marketing:hover{
+    color:white;
+   
+}
+#Dizayın:hover{
+    color: white;
+}
+#Proqramlaşdırma:hover{
+    color:white;
+}
+#Sistem və Şəbəkə:hover{
+color:white;
+}
+.leftimg{
+    width: 20%;
+    overflow: hidden;
+}
+.leftimg img{
+    width: 100%;
+}
+ .project{
+    display: flex;
+}
+.project .text{
+    margin-left: 20px;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+} 
+.col-6 image{
+    height: 100px;
+}
+
+#code-academy-slide{
+margin-top: 20px;
+}
+#code-academy-slide .left{
+    width: 50%;
+    overflow: hidden;
+}
+
+#code-academy-slide .left img{
+    width: 100%;
+}
+
+#code-academy-slide .right{
+    width: 50%;
+}
+/* .col-lg-6{
+    margin: mv3;
+} */
+
+.bottom-row{
+    margin-top: 30px;
+}
+#students {
+    margin-top: 200px;
+   background-size: cover;   
+  
+}
+.student{
+    background-image: url("497a0b85-bc7a-4e61-9976-3324f6c8f6ba.jpg");
+}
+#graduate{
+    margin-top: 200px;
+}
+
+
